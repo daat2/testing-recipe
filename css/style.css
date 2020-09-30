@@ -1,0 +1,45 @@
+.double-nav .breadcrumb-dn {
+    color: #fff;
+}
+.side-nav.wide.slim .sn-ad-avatar-wrapper a span {
+  display: none;
+}
+
+body{
+background-color: blue;
+
+}
+
+.masthead-intro,
+.masthead-intro {
+      text-align: center;
+ }
+
+ masthead {
+     padding: 6em 0;
+ }
+
+ .masthead-intro {
+     margin-bottom: 0.1em;
+ }
+
+ .masthead-heading {
+     margin-top: -0.2em;
+ }
+
+ .masthead {
+    padding: 6em 0;
+    background-image: url('photo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: solid 10px white;
+}
+
+.img{
+background-image: url('assorted-fruits.jpg');
+border-top: solid 10px white;
+width: 600px;
+height: 600px;
+
+
+}
